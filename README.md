@@ -8,4 +8,4 @@ Project one
 # calculates taxes owed at EACH bracket
 # displays total taxes owed, taxes as % of gross and adjusted gross income
 # ScreenShot
-# 2981SS.png
+# ! [SS] (2981SS.png)
