@@ -7,5 +7,5 @@ Project one
 # Gets gross income in a loop
 # calculates taxes owed at EACH bracket
 # displays total taxes owed, taxes as % of gross and adjusted gross income
-#ScreenShot
-2981SS.jpg
+# ScreenShot
+# 2981SS.png
